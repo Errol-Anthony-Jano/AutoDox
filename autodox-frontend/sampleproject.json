@@ -1,0 +1,49 @@
+{
+    "projectName": "SudoCodeCamp: Midterm Preparation for CS Students",
+    "startDate": "March 7, 2026",
+    "endDate": "March 14, 2026",
+    "startTime": "9:00 AM",
+    "endTime": "4:00 PM",
+    "isOrganizer": true,
+    "isPartner": false,
+    "isParticipant": false, 
+    "onCampusVenue": "FH 105",
+    "projectDescription": "This project aims to help students in preparing for their midterm exams by providing tutorials in various subjects.",
+    "projectLink": "Link",
+    "objectives": [
+        { "index": 1, "text": "Discussed the activities after February" },
+        { "index": 2, "text": "Meet the expected number of participants" },
+        { "index": 3, "text": "Improve collaboration between the two organizations" }
+    ],
+    "successIndicators": [
+        { "index": 1, "text": "Documentation Report" },
+        { "index": 2, "text": "Attendance Sheet" },
+        { "index": 3, "text": "ACR Session" }
+    ],
+    "partners": [
+        {
+            "name": "San Antonio Spurs",
+            "role": "Lechon Sponsor"
+        },
+        {
+            "name": "Mr. Beast",
+            "role": "Cash Prize"
+        },
+        {
+            "name": "Harvey Specter",
+            "role": "Aura Farmer"
+        },
+        {
+            "name": "LeBron James",
+            "role": "GOAT"
+        }
+    ],
+    "proposedBudget": "7,000",
+    "projectHeadName": "Errol Anthony N. Jano",
+    "bfoName": "Victor Wembanyama",
+    "treasurerName": "LeBron James",
+    "presidentName": "Max Verstappen",
+    "moderatorName": "Seve Gonzales",
+    "projectHeadNumber": "0912346789",
+    "projectHeadEmail": "jbtsdc3@gmail.com"
+}
