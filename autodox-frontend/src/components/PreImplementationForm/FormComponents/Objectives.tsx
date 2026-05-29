@@ -27,7 +27,7 @@ function Objectives({ label }: { label?: string }) {
                 </Field.Root>
                 <button type="button" className="bg-green-200 rounded-md p-2 text-sm" onClick={handleButtonClick}>Add new objective</button>
             </div>
-            <div className="flex flex-col border border-green-500 gap-4 p-4 grow min-h-[40vh] max-h-[40vh] overflow-y-auto rounded-md">
+            <div className="flex flex-col border border-gray-300 gap-4 p-4 grow min-h-[40vh] max-h-[40vh] overflow-y-auto rounded-md">
                 {
                     objectives.map(objective => (
                         <div key={objective} className="border border-gray-300 rounded-md p-2">
