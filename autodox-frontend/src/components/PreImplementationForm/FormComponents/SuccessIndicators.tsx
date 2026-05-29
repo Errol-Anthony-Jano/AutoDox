@@ -10,7 +10,7 @@ function SuccessIndicators({ label }: { label: string }) {
                 </Field.Root>
                 <button type="button" className="bg-green-200 rounded-md p-2 text-sm">Add new success indicator</button>
             </div>
-            <div className="grow min-h-[40vh] max-h-[40vh] border border-green-500 overflow-y-auto p-4 rounded-md">
+            <div className="grow min-h-[40vh] max-h-[40vh] border border-gray-300 overflow-y-auto p-4 rounded-md">
 
             </div>
         </>
