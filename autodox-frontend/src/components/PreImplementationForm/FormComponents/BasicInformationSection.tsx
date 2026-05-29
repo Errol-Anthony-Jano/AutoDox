@@ -102,7 +102,7 @@ function BasicInformationSection({ label, venue, engagement, activityNature, sdg
                     </Fieldset.Root>
                     <Field.Root name="main-organizer" disabled={engagement !== 'participant'} className="flex flex-col w-1/2">
                         <Field.Label className={"font-bold text-gray-500"}>Main Organizer (if participant)</Field.Label>
-                        <Field.Control type="text" className="border-2 border-gray-300 disabled:border-gray-100 p-2 rounded-md"/>
+                        <Field.Control type="text" className="border-2 border-gray-300 disabled:border-gray-100 disabled:bg-gray-100 p-2 rounded-md"/>
                     </Field.Root>
                 </div>
             </Fieldset.Root>
